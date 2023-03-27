@@ -1,11 +1,11 @@
 body {
-    font-size: 15pt;
+    font-size: 15pt; font-family: cursive; background-color: firebrick
 }
-#main{font-family: Verdana, Geneva, Tahoma, sans-serif; background-color: black ;text-align: center ; font-size: 32px ; border: 3px solid black; color: white }
+#main{font-family: cursive, Geneva, Tahoma, sans-serif; background-color: black ;text-align: center ; font-size: 32px ; border: 3px solid black; color: white }
  h4, h3{text-align: center;text-shadow: 3px 2px 3px black;color: orangered;}
 h2 , h1 {border-top: 5px solid black; text-align: center; text-shadow: 3px 2px 3px black; color: orangered;}
 main{text-align:center; background-color: lightblue; border-bottom: 5px solid black} 
-header{background-color: yellow}
+header{background-color: greenyellow;}
 .left{text-align:left;font-weight:900}
 footer{background-color: deepskyblue;color: white}
 #gt{ margin-top: 10px}
